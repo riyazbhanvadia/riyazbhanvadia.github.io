@@ -203,14 +203,14 @@ body {
 .bar {
     width: 100%;
     height: 3px;
-    background: #777777;
+    background: #dccece;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
 
 .bar-fill {
-    background: #ed3200;
+    background: #4acaa8;
     height: 3px;
 }
 
@@ -311,8 +311,8 @@ body {
 }
 
 .timeline .entry .time.on:before {
-    border: 1px solid #ed3200;
-    background: #ed3200;
+    border: 1px solid #4acaa8;
+    background: #4acaa8;
 }
 
 .timeline .entry .time,
