@@ -426,7 +426,13 @@ ul#nav li.current a {
 }
 
 .angular {
-    width: 90%;
+    width: 40%;
+    -moz-animation: angular 2s ease;
+    -webkit-animation: angular 2s ease;
+}
+
+.react {
+    width: 60%;
     -moz-animation: angular 2s ease;
     -webkit-animation: angular 2s ease;
 }
